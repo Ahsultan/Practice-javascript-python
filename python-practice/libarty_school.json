@@ -1,0 +1,43 @@
+{"students": [
+        {"_id": "5bf6cfea69b7fcf834e4366f", "name": "Rivers Hunt", "email": "rivershunt@dymi.com", "phone": "+1 (959) 500-2423", "marks": {"Mathematics": "A", "Science": "A", "Art": "E", "Music": "C"
+            }
+        },
+        {"_id": "5bf6cfea04cc5eb9dd3e8509", "name": "Golden Acevedo", "email": "goldenacevedo@dymi.com", "phone": "+1 (840) 532-3901", "marks": {"Mathematics": "B+", "Science": "C", "Art": "B+", "Music": "C"
+            }
+        },
+        {"_id": "5bf6cfea0ca6da7f9d915c70", "name": "Hartman Schwartz", "email": "hartmanschwartz@dymi.com", "phone": "+1 (820) 555-3525", "marks": {"Mathematics": "A", "Science": "E", "Art": "A", "Music": "B+"
+            }
+        },
+        {"_id": "5bf6cfea9adc2c4bc918e6d2", "name": "Tabitha Pate", "email": "tabithapate@dymi.com", "phone": "+1 (903) 480-2825", "marks": {"Mathematics": "E", "Science": "F", "Art": "F", "Music": "A"
+            }
+        },
+        {"_id": "5bf6cfea87e5c1928b2c603b", "name": "Vaughan Levine", "email": "vaughanlevine@dymi.com", "phone": "+1 (869) 575-2303", "marks": {"Mathematics": "E", "Science": "F", "Art": "F", "Music": "A"
+            }
+        },
+        {"_id": "5bf6cfea6b716b72659887a2", "name": "Adriana Lyons", "email": "adrianalyons@dymi.com", "phone": "+1 (987) 432-3771", "marks": {"Mathematics": "E", "Science": "F", "Art": "E", "Music": "E"
+            }
+        },
+        {"_id": "5bf6cfea3a2e26017eae94b7", "name": "Dionne Woodard", "email": "dionnewoodard@dymi.com", "phone": "+1 (950) 420-2608", "marks": {"Mathematics": "B+", "Science": "F", "Art": "B+", "Music": "E"
+            }
+        },
+        {"_id": "5bf6cfea228965785bce6b74", "name": "Owen Graves", "email": "owengraves@dymi.com", "phone": "+1 (849) 475-2898", "marks": {"Mathematics": "E", "Science": "E", "Art": "A", "Music": "B+"
+            }
+        },
+        {"_id": "5bf6cfeae75622a046e970af", "name": "Whitney Mann", "email": "whitneymann@dymi.com", "phone": "+1 (935) 591-3920", "marks": {"Mathematics": "E", "Science": "E", "Art": "C", "Music": "A"
+            }
+        }
+    ], "teachers": [
+        {"first_name": "Samara", "last_name": "Kilgour", "email": "skilgour0@ask.com", "subject": "Art"
+        },
+        {"first_name": "Christoforo", "last_name": "Hawkshaw", "email": "chawkshaw1@intel.com", "subject": "Science"
+        },
+        {"first_name": "Hodge", "last_name": "Rawstorn", "email": "hrawstorn2@live.com", "subject": "Art"
+        },
+        {"first_name": "Ettore", "last_name": "Farish", "email": "efarish3@nature.com", "subject": "Art"
+        },
+        {"first_name": "Sammy", "last_name": "Gokes", "email": "sgokes4@typepad.com", "subject": "Mathematics"
+        },
+        {"first_name": "Laurens", "last_name": "Fountian", "email": "lfountian5@foxnews.com", "subject": "Science"
+        }
+    ]
+}
